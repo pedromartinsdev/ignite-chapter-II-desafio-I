@@ -50,6 +50,19 @@ Para completar o desafio é necessário que a API passe pelos seguintes testes
     ✓ should not be able to a non admin user get list of all users 
     ✓ should not be able to a non existing user get list of all users
 
+## Executar
+
+- Para testar esta API basta fazer o clone do repositório `git clone`
+- Executar o comando `yarn` para instalar todas as dependências
+- E depois `yarn dev` para iniciar o servidor
+
+![Página do Swagger com as rotas da aplicação](/assets/swagger.png)
+
+## Documentação
+
+- Para acessar a documentação basta executar o comando `yarn dev`
+- E acessar o endereço `http://localhost:3333/api-docs`
+
 ## Créditos
 
 🚀 **[Rocketseat](https://www.rocketseat.com.br)**
