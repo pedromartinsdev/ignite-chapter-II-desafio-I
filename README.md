@@ -56,12 +56,12 @@ Para completar o desafio é necessário que a API passe pelos seguintes testes
 - Executar o comando `yarn` para instalar todas as dependências
 - E depois `yarn dev` para iniciar o servidor
 
-![Página do Swagger com as rotas da aplicação](/assets/swagger.png)
-
 ## Documentação
 
 - Para acessar a documentação basta executar o comando `yarn dev`
 - E acessar o endereço `http://localhost:3333/api-docs`
+
+![Página do Swagger com as rotas da aplicação](/assets/swagger.png)
 
 ## Créditos
 
